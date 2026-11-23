@@ -32,5 +32,3 @@ elif choice == 3:
         print("Please enter a valid number (1,2,3)")
 else:
     print("Please enter a valid number (1,2,3)")
-
-print("HI")
